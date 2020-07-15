@@ -3,7 +3,7 @@ Cross-Attention in Coupled Unmixing Nets for Unsupervised Hyperspectral Super-Re
 Code for the paper: [Cross-Attention in Coupled Unmixing Nets for Unsupervised Hyperspectral Super-Resolution](https://arxiv.org/pdf/2007.05230.pdf).
 
 
-![My image](https://github.com/danfenghong/ECCV2020_CUCaNet/Imgs/workflow_CUCa.png)
+![](https://github.com/danfenghong/ECCV2020_CUCaNet/blob/master/Imgs/workflow_CUCa.png)
 
 .caption[
 **Fig. 1:** Workflow of the proposed networks.
