@@ -4,4 +4,4 @@ Code for the paper [Cross-Attention in Coupled Unmixing Nets for Unsupervised Hy
 
 ![](https://github.com/danfenghong/ECCV2020_CUCaNet/blob/master/Imgs/workflow_CUCa.png)
 
-<img src="Imgs/workflow_CUCA.pdf" width="536px"/>
+<img src="Imgs/workflow_CUCa.png" width="536px"/>
