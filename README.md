@@ -47,7 +47,6 @@ You should have received a copy of the GNU General Public License along with thi
 
 If you encounter the bugs while using this code, please do not hesitate to contact us.
 
-Jing Yao: :e-mail:  :incoming_envelope:      jasonyao92@gmail.com
-Danfeng Hong: hongdanfeng1989@gmail.com
-Danfeng Hong is with the Remote Sensing Technology Institute (IMF), German Aerospace Center (DLR), Germany; <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; with the Singnal Processing in Earth Oberservation (SiPEO), Technical University of Munich (TUM), Germany. 
+Jing Yao (:incoming_envelope: jasonyao92@gmail.com) is with Xi'an Jiaotong University ;
+
+Danfeng Hong (:incoming_envelope: hongdanfeng1989@gmail.com) is with the Remote Sensing Technology Institute (IMF), German Aerospace Center (DLR), Germany, and also with the Singnal Processing in Earth Oberservation (SiPEO), Technical University of Munich (TUM), Germany. 
