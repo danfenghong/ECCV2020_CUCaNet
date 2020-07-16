@@ -1,6 +1,49 @@
 (We have not tuned the parameters very carefully)
 
-setup_seed(3),lambda_(A,B,C,G)=10,lambda_(D,E)=0.01,lambda_F=10000
+To show in paper
+================ Precision Log (Sat Feb 22 00:25:25 2020) ================
+Epoch:251.0 Name:fake_and_real_food_ms PSNR:30.0 SAM:30.31 ERGAS:6.98 SSIM:0.899 UQI:0.824
+Epoch:501.0 Name:fake_and_real_food_ms PSNR:32.0 SAM:26.06 ERGAS:5.53 SSIM:0.923 UQI:0.863
+Epoch:751.0 Name:fake_and_real_food_ms PSNR:33.35 SAM:23.9 ERGAS:4.73 SSIM:0.939 UQI:0.896
+Epoch:1001.0 Name:fake_and_real_food_ms PSNR:34.32 SAM:22.21 ERGAS:4.17 SSIM:0.945 UQI:0.901
+Epoch:1251.0 Name:fake_and_real_food_ms PSNR:35.0 SAM:20.93 ERGAS:3.86 SSIM:0.95 UQI:0.912
+Epoch:1501.0 Name:fake_and_real_food_ms PSNR:35.42 SAM:19.11 ERGAS:3.65 SSIM:0.955 UQI:0.919
+Epoch:1751.0 Name:fake_and_real_food_ms PSNR:35.41 SAM:17.82 ERGAS:3.62 SSIM:0.959 UQI:0.927
+Epoch:2001.0 Name:fake_and_real_food_ms PSNR:36.37 SAM:16.73 ERGAS:3.26 SSIM:0.962 UQI:0.935
+Epoch:2251.0 Name:fake_and_real_food_ms PSNR:36.79 SAM:15.47 ERGAS:3.12 SSIM:0.965 UQI:0.939
+Epoch:2501.0 Name:fake_and_real_food_ms PSNR:37.26 SAM:14.52 ERGAS:3.0 SSIM:0.967 UQI:0.943
+Epoch:2751.0 Name:fake_and_real_food_ms PSNR:37.03 SAM:12.93 ERGAS:2.99 SSIM:0.968 UQI:0.943
+Epoch:3001.0 Name:fake_and_real_food_ms PSNR:37.73 SAM:11.83 ERGAS:2.79 SSIM:0.973 UQI:0.954
+Epoch:3251.0 Name:fake_and_real_food_ms PSNR:37.79 SAM:10.72 ERGAS:2.76 SSIM:0.974 UQI:0.954
+Epoch:3501.0 Name:fake_and_real_food_ms PSNR:37.83 SAM:9.5 ERGAS:2.69 SSIM:0.975 UQI:0.96
+Epoch:3751.0 Name:fake_and_real_food_ms PSNR:37.83 SAM:8.7 ERGAS:2.72 SSIM:0.976 UQI:0.96
+Epoch:4001.0 Name:fake_and_real_food_ms PSNR:38.19 SAM:8.17 ERGAS:2.61 SSIM:0.977 UQI:0.963
+Epoch:4251.0 Name:fake_and_real_food_ms PSNR:38.27 SAM:7.82 ERGAS:2.54 SSIM:0.978 UQI:0.965
+Epoch:4501.0 Name:fake_and_real_food_ms PSNR:38.33 SAM:7.53 ERGAS:2.54 SSIM:0.979 UQI:0.967
+Epoch:4751.0 Name:fake_and_real_food_ms PSNR:38.45 SAM:7.32 ERGAS:2.5 SSIM:0.979 UQI:0.966
+Epoch:5001.0 Name:fake_and_real_food_ms PSNR:38.72 SAM:7.13 ERGAS:2.44 SSIM:0.98 UQI:0.97
+Epoch:5251.0 Name:fake_and_real_food_ms PSNR:38.81 SAM:7.0 ERGAS:2.42 SSIM:0.98 UQI:0.971
+Epoch:5501.0 Name:fake_and_real_food_ms PSNR:38.88 SAM:6.84 ERGAS:2.39 SSIM:0.981 UQI:0.971
+Epoch:5751.0 Name:fake_and_real_food_ms PSNR:38.86 SAM:6.72 ERGAS:2.4 SSIM:0.981 UQI:0.971
+Epoch:6001.0 Name:fake_and_real_food_ms PSNR:39.03 SAM:6.58 ERGAS:2.36 SSIM:0.981 UQI:0.973
+Epoch:6251.0 Name:fake_and_real_food_ms PSNR:39.13 SAM:6.48 ERGAS:2.34 SSIM:0.982 UQI:0.973
+Epoch:6501.0 Name:fake_and_real_food_ms PSNR:39.1 SAM:6.41 ERGAS:2.34 SSIM:0.982 UQI:0.973
+Epoch:6751.0 Name:fake_and_real_food_ms PSNR:39.17 SAM:6.34 ERGAS:2.32 SSIM:0.982 UQI:0.975
+Epoch:7001.0 Name:fake_and_real_food_ms PSNR:39.2 SAM:6.24 ERGAS:2.32 SSIM:0.982 UQI:0.975
+Epoch:7251.0 Name:fake_and_real_food_ms PSNR:39.21 SAM:6.22 ERGAS:2.31 SSIM:0.982 UQI:0.975
+Epoch:7501.0 Name:fake_and_real_food_ms PSNR:39.19 SAM:6.21 ERGAS:2.31 SSIM:0.982 UQI:0.975
+Epoch:7751.0 Name:fake_and_real_food_ms PSNR:39.25 SAM:6.18 ERGAS:2.31 SSIM:0.982 UQI:0.975
+Epoch:8001.0 Name:fake_and_real_food_ms PSNR:39.24 SAM:6.13 ERGAS:2.31 SSIM:0.982 UQI:0.976
+Epoch:8251.0 Name:fake_and_real_food_ms PSNR:39.22 SAM:6.14 ERGAS:2.31 SSIM:0.982 UQI:0.975
+Epoch:8501.0 Name:fake_and_real_food_ms PSNR:39.23 SAM:6.13 ERGAS:2.3 SSIM:0.982 UQI:0.975
+Epoch:8751.0 Name:fake_and_real_food_ms PSNR:39.25 SAM:6.12 ERGAS:2.3 SSIM:0.982 UQI:0.976
+Epoch:9001.0 Name:fake_and_real_food_ms PSNR:39.24 SAM:6.13 ERGAS:2.3 SSIM:0.982 UQI:0.976
+Epoch:9251.0 Name:fake_and_real_food_ms PSNR:39.23 SAM:6.15 ERGAS:2.3 SSIM:0.982 UQI:0.976
+Epoch:9501.0 Name:fake_and_real_food_ms PSNR:39.23 SAM:6.15 ERGAS:2.3 SSIM:0.982 UQI:0.976
+Epoch:9751.0 Name:fake_and_real_food_ms PSNR:39.23 SAM:6.15 ERGAS:2.3 SSIM:0.982 UQI:0.976
+Epoch:10001.0 Name:fake_and_real_food_ms PSNR:39.23 SAM:6.15 ERGAS:2.3 SSIM:0.982 UQI:0.976
+
+setup_seed(1),lambda_(A,B,C,G)=10,lambda_(D,E)=0.01,lambda_F=10000
 ================ Precision Log (Tue Jul 14 19:09:17 2020) ================
 Epoch:251.0 Name:fake_and_real_food_ms PSNR:29.59 SAM:28.09 ERGAS:4.29 SSIM:0.888 UQI:0.82
 Epoch:501.0 Name:fake_and_real_food_ms PSNR:31.61 SAM:22.67 ERGAS:3.39 SSIM:0.919 UQI:0.867
@@ -43,4 +86,5 @@ Epoch:9501.0 Name:fake_and_real_food_ms PSNR:39.63 SAM:6.78 ERGAS:1.1 SSIM:0.981
 Epoch:9751.0 Name:fake_and_real_food_ms PSNR:39.63 SAM:6.91 ERGAS:1.1 SSIM:0.981 UQI:0.971
 Epoch:10001.0 Name:fake_and_real_food_ms PSNR:39.63 SAM:6.96 ERGAS:1.1 SSIM:0.981 UQI:0.971
 
-setup_seed(3),lambda_(A,B,C,G)=10,lambda_(D,E)=0.01,lambda_F=1000
+=============================
+Yours:
