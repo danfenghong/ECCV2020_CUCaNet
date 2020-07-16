@@ -47,7 +47,7 @@ You should have received a copy of the GNU General Public License along with thi
 
 If you encounter the bugs while using this code, please do not hesitate to contact us.
 
-Jing Yao: :email: jasonyao92@gmail.com
+Jing Yao: :e-mail:  :incoming_envelope:      jasonyao92@gmail.com
 Danfeng Hong: hongdanfeng1989@gmail.com
 Danfeng Hong is with the Remote Sensing Technology Institute (IMF), German Aerospace Center (DLR), Germany; <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; with the Singnal Processing in Earth Oberservation (SiPEO), Technical University of Munich (TUM), Germany. 
