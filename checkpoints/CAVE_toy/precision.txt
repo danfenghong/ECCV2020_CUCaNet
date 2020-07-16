@@ -1,5 +1,48 @@
 (We have not tuned the parameters very carefully)
 
+To show in paper
+================ Precision Log (Sat Feb 22 09:37:33 2020) ================
+Epoch:251.0 Name:chart_and_stuffed_toy_ms PSNR:30.11 SAM:23.33 ERGAS:2.8 SSIM:0.906 UQI:0.849
+Epoch:501.0 Name:chart_and_stuffed_toy_ms PSNR:30.59 SAM:21.94 ERGAS:2.63 SSIM:0.924 UQI:0.894
+Epoch:751.0 Name:chart_and_stuffed_toy_ms PSNR:30.85 SAM:20.68 ERGAS:2.53 SSIM:0.93 UQI:0.904
+Epoch:1001.0 Name:chart_and_stuffed_toy_ms PSNR:31.71 SAM:19.3 ERGAS:2.29 SSIM:0.929 UQI:0.894
+Epoch:1251.0 Name:chart_and_stuffed_toy_ms PSNR:32.08 SAM:17.99 ERGAS:2.2 SSIM:0.94 UQI:0.915
+Epoch:1501.0 Name:chart_and_stuffed_toy_ms PSNR:32.35 SAM:16.16 ERGAS:2.11 SSIM:0.945 UQI:0.929
+Epoch:1751.0 Name:chart_and_stuffed_toy_ms PSNR:32.88 SAM:14.87 ERGAS:1.99 SSIM:0.949 UQI:0.934
+Epoch:2001.0 Name:chart_and_stuffed_toy_ms PSNR:33.48 SAM:13.66 ERGAS:1.87 SSIM:0.953 UQI:0.94
+Epoch:2251.0 Name:chart_and_stuffed_toy_ms PSNR:33.35 SAM:12.51 ERGAS:1.88 SSIM:0.957 UQI:0.946
+Epoch:2501.0 Name:chart_and_stuffed_toy_ms PSNR:33.97 SAM:12.0 ERGAS:1.79 SSIM:0.959 UQI:0.95
+Epoch:2751.0 Name:chart_and_stuffed_toy_ms PSNR:33.92 SAM:11.44 ERGAS:1.79 SSIM:0.96 UQI:0.952
+Epoch:3001.0 Name:chart_and_stuffed_toy_ms PSNR:34.37 SAM:10.99 ERGAS:1.72 SSIM:0.963 UQI:0.955
+Epoch:3251.0 Name:chart_and_stuffed_toy_ms PSNR:34.17 SAM:10.63 ERGAS:1.72 SSIM:0.963 UQI:0.956
+Epoch:3501.0 Name:chart_and_stuffed_toy_ms PSNR:34.44 SAM:10.43 ERGAS:1.67 SSIM:0.965 UQI:0.959
+Epoch:3751.0 Name:chart_and_stuffed_toy_ms PSNR:34.94 SAM:10.08 ERGAS:1.62 SSIM:0.967 UQI:0.963
+Epoch:4001.0 Name:chart_and_stuffed_toy_ms PSNR:34.75 SAM:9.85 ERGAS:1.62 SSIM:0.968 UQI:0.963
+Epoch:4251.0 Name:chart_and_stuffed_toy_ms PSNR:35.16 SAM:9.95 ERGAS:1.58 SSIM:0.969 UQI:0.964
+Epoch:4501.0 Name:chart_and_stuffed_toy_ms PSNR:35.6 SAM:9.73 ERGAS:1.53 SSIM:0.97 UQI:0.966
+Epoch:4751.0 Name:chart_and_stuffed_toy_ms PSNR:35.38 SAM:9.71 ERGAS:1.54 SSIM:0.971 UQI:0.966
+Epoch:5001.0 Name:chart_and_stuffed_toy_ms PSNR:35.8 SAM:9.59 ERGAS:1.5 SSIM:0.971 UQI:0.967
+Epoch:5251.0 Name:chart_and_stuffed_toy_ms PSNR:35.78 SAM:9.48 ERGAS:1.5 SSIM:0.972 UQI:0.968
+Epoch:5501.0 Name:chart_and_stuffed_toy_ms PSNR:35.88 SAM:9.46 ERGAS:1.49 SSIM:0.972 UQI:0.968
+Epoch:5751.0 Name:chart_and_stuffed_toy_ms PSNR:35.9 SAM:9.37 ERGAS:1.47 SSIM:0.973 UQI:0.969
+Epoch:6001.0 Name:chart_and_stuffed_toy_ms PSNR:35.99 SAM:9.28 ERGAS:1.47 SSIM:0.973 UQI:0.97
+Epoch:6251.0 Name:chart_and_stuffed_toy_ms PSNR:36.07 SAM:9.3 ERGAS:1.45 SSIM:0.973 UQI:0.969
+Epoch:6501.0 Name:chart_and_stuffed_toy_ms PSNR:36.27 SAM:9.23 ERGAS:1.44 SSIM:0.974 UQI:0.97
+Epoch:6751.0 Name:chart_and_stuffed_toy_ms PSNR:36.33 SAM:9.13 ERGAS:1.43 SSIM:0.975 UQI:0.971
+Epoch:7001.0 Name:chart_and_stuffed_toy_ms PSNR:36.39 SAM:9.2 ERGAS:1.43 SSIM:0.974 UQI:0.97
+Epoch:7251.0 Name:chart_and_stuffed_toy_ms PSNR:36.56 SAM:9.12 ERGAS:1.41 SSIM:0.975 UQI:0.971
+Epoch:7501.0 Name:chart_and_stuffed_toy_ms PSNR:36.66 SAM:9.05 ERGAS:1.4 SSIM:0.975 UQI:0.971
+Epoch:7751.0 Name:chart_and_stuffed_toy_ms PSNR:36.58 SAM:9.07 ERGAS:1.41 SSIM:0.975 UQI:0.971
+Epoch:8001.0 Name:chart_and_stuffed_toy_ms PSNR:36.68 SAM:9.06 ERGAS:1.4 SSIM:0.975 UQI:0.971
+Epoch:8251.0 Name:chart_and_stuffed_toy_ms PSNR:36.68 SAM:9.03 ERGAS:1.4 SSIM:0.976 UQI:0.972
+Epoch:8501.0 Name:chart_and_stuffed_toy_ms PSNR:36.69 SAM:9.03 ERGAS:1.4 SSIM:0.976 UQI:0.972
+Epoch:8751.0 Name:chart_and_stuffed_toy_ms PSNR:36.69 SAM:9.05 ERGAS:1.4 SSIM:0.976 UQI:0.972
+Epoch:9001.0 Name:chart_and_stuffed_toy_ms PSNR:36.7 SAM:9.04 ERGAS:1.4 SSIM:0.976 UQI:0.972
+Epoch:9251.0 Name:chart_and_stuffed_toy_ms PSNR:36.71 SAM:9.04 ERGAS:1.4 SSIM:0.976 UQI:0.972
+Epoch:9501.0 Name:chart_and_stuffed_toy_ms PSNR:36.71 SAM:9.04 ERGAS:1.4 SSIM:0.976 UQI:0.972
+Epoch:9751.0 Name:chart_and_stuffed_toy_ms PSNR:36.71 SAM:9.03 ERGAS:1.4 SSIM:0.976 UQI:0.972
+Epoch:10001.0 Name:chart_and_stuffed_toy_ms PSNR:36.71 SAM:9.03 ERGAS:1.4 SSIM:0.976 UQI:0.972
+
 setup_seed(1),lambda_(A,B,C,G)=10,lambda_(D,E)=0.01,lambda_F=10000
 ================ Precision Log (Tue Jul 14 20:55:48 2020) ================
 Epoch:251.0 Name:chart_and_stuffed_toy_ms PSNR:29.24 SAM:26.43 ERGAS:1.63 SSIM:0.911 UQI:0.869
@@ -35,47 +78,5 @@ Epoch:7501.0 Name:chart_and_stuffed_toy_ms PSNR:35.91 SAM:8.5 ERGAS:0.75 SSIM:0.
 Epoch:7751.0 Name:chart_and_stuffed_toy_ms PSNR:35.98 SAM:8.5 ERGAS:0.75 SSIM:0.972 UQI:0.966
 Epoch:8001.0 Name:chart_and_stuffed_toy_ms PSNR:36.04 SAM:8.52 ERGAS:0.74 SSIM:0.972 UQI:0.967
 
-setup_seed(3),lambda_(A,B,C,G)=10,lambda_(D,E)=0.01,lambda_F=1000
-================ Precision Log (Wed Jul 15 01:06:12 2020) ================
-Epoch:251.0 Name:chart_and_stuffed_toy_ms PSNR:29.68 SAM:27.71 ERGAS:1.73 SSIM:0.911 UQI:0.874
-Epoch:501.0 Name:chart_and_stuffed_toy_ms PSNR:30.52 SAM:26.41 ERGAS:1.52 SSIM:0.921 UQI:0.893
-Epoch:751.0 Name:chart_and_stuffed_toy_ms PSNR:31.59 SAM:25.37 ERGAS:1.36 SSIM:0.925 UQI:0.895
-Epoch:1001.0 Name:chart_and_stuffed_toy_ms PSNR:31.37 SAM:24.49 ERGAS:1.4 SSIM:0.93 UQI:0.904
-Epoch:1251.0 Name:chart_and_stuffed_toy_ms PSNR:32.35 SAM:23.33 ERGAS:1.26 SSIM:0.937 UQI:0.912
-Epoch:1501.0 Name:chart_and_stuffed_toy_ms PSNR:32.93 SAM:23.24 ERGAS:1.17 SSIM:0.94 UQI:0.918
-Epoch:1751.0 Name:chart_and_stuffed_toy_ms PSNR:33.1 SAM:22.35 ERGAS:1.13 SSIM:0.943 UQI:0.925
-Epoch:2001.0 Name:chart_and_stuffed_toy_ms PSNR:33.59 SAM:20.45 ERGAS:1.09 SSIM:0.947 UQI:0.929
-Epoch:2251.0 Name:chart_and_stuffed_toy_ms PSNR:33.23 SAM:20.61 ERGAS:1.1 SSIM:0.948 UQI:0.933
-Epoch:2501.0 Name:chart_and_stuffed_toy_ms PSNR:34.39 SAM:18.26 ERGAS:1.01 SSIM:0.954 UQI:0.94
-Epoch:2751.0 Name:chart_and_stuffed_toy_ms PSNR:33.59 SAM:17.64 ERGAS:1.03 SSIM:0.955 UQI:0.94
-Epoch:3001.0 Name:chart_and_stuffed_toy_ms PSNR:33.85 SAM:17.02 ERGAS:1.01 SSIM:0.956 UQI:0.944
-Epoch:3251.0 Name:chart_and_stuffed_toy_ms PSNR:34.6 SAM:15.52 ERGAS:0.94 SSIM:0.96 UQI:0.948
-Epoch:3501.0 Name:chart_and_stuffed_toy_ms PSNR:35.18 SAM:14.67 ERGAS:0.9 SSIM:0.962 UQI:0.952
-Epoch:3751.0 Name:chart_and_stuffed_toy_ms PSNR:34.46 SAM:14.06 ERGAS:0.93 SSIM:0.963 UQI:0.954
-Epoch:4001.0 Name:chart_and_stuffed_toy_ms PSNR:35.24 SAM:12.78 ERGAS:0.87 SSIM:0.965 UQI:0.958
-Epoch:4251.0 Name:chart_and_stuffed_toy_ms PSNR:35.06 SAM:12.11 ERGAS:0.87 SSIM:0.966 UQI:0.959
-Epoch:4501.0 Name:chart_and_stuffed_toy_ms PSNR:35.53 SAM:10.04 ERGAS:0.83 SSIM:0.969 UQI:0.963
-Epoch:4751.0 Name:chart_and_stuffed_toy_ms PSNR:35.68 SAM:10.04 ERGAS:0.83 SSIM:0.968 UQI:0.963
-Epoch:5001.0 Name:chart_and_stuffed_toy_ms PSNR:35.73 SAM:9.52 ERGAS:0.81 SSIM:0.97 UQI:0.966
-Epoch:5251.0 Name:chart_and_stuffed_toy_ms PSNR:35.55 SAM:9.67 ERGAS:0.81 SSIM:0.97 UQI:0.965
-Epoch:5501.0 Name:chart_and_stuffed_toy_ms PSNR:35.69 SAM:9.38 ERGAS:0.81 SSIM:0.97 UQI:0.966
-Epoch:5751.0 Name:chart_and_stuffed_toy_ms PSNR:35.94 SAM:9.37 ERGAS:0.79 SSIM:0.97 UQI:0.966
-Epoch:6001.0 Name:chart_and_stuffed_toy_ms PSNR:36.05 SAM:9.39 ERGAS:0.78 SSIM:0.971 UQI:0.966
-Epoch:6251.0 Name:chart_and_stuffed_toy_ms PSNR:36.06 SAM:9.33 ERGAS:0.78 SSIM:0.971 UQI:0.967
-Epoch:6501.0 Name:chart_and_stuffed_toy_ms PSNR:36.01 SAM:9.21 ERGAS:0.78 SSIM:0.971 UQI:0.967
-Epoch:6751.0 Name:chart_and_stuffed_toy_ms PSNR:36.2 SAM:9.18 ERGAS:0.77 SSIM:0.971 UQI:0.967
-Epoch:7001.0 Name:chart_and_stuffed_toy_ms PSNR:36.24 SAM:9.3 ERGAS:0.76 SSIM:0.972 UQI:0.968
-Epoch:7251.0 Name:chart_and_stuffed_toy_ms PSNR:36.33 SAM:9.31 ERGAS:0.76 SSIM:0.972 UQI:0.968
-Epoch:7501.0 Name:chart_and_stuffed_toy_ms PSNR:36.41 SAM:9.26 ERGAS:0.75 SSIM:0.972 UQI:0.968
-Epoch:7751.0 Name:chart_and_stuffed_toy_ms PSNR:36.44 SAM:9.26 ERGAS:0.75 SSIM:0.972 UQI:0.969
-Epoch:8001.0 Name:chart_and_stuffed_toy_ms PSNR:36.51 SAM:9.26 ERGAS:0.74 SSIM:0.972 UQI:0.969
-Epoch:8251.0 Name:chart_and_stuffed_toy_ms PSNR:36.59 SAM:9.3 ERGAS:0.74 SSIM:0.973 UQI:0.969
-Epoch:8501.0 Name:chart_and_stuffed_toy_ms PSNR:36.61 SAM:9.33 ERGAS:0.74 SSIM:0.973 UQI:0.969
-Epoch:8751.0 Name:chart_and_stuffed_toy_ms PSNR:36.67 SAM:9.37 ERGAS:0.73 SSIM:0.973 UQI:0.969
-Epoch:9001.0 Name:chart_and_stuffed_toy_ms PSNR:36.68 SAM:9.4 ERGAS:0.73 SSIM:0.973 UQI:0.969
-Epoch:9251.0 Name:chart_and_stuffed_toy_ms PSNR:36.7 SAM:9.43 ERGAS:0.73 SSIM:0.973 UQI:0.969
-Epoch:9501.0 Name:chart_and_stuffed_toy_ms PSNR:36.72 SAM:9.47 ERGAS:0.73 SSIM:0.973 UQI:0.969
-Epoch:9751.0 Name:chart_and_stuffed_toy_ms PSNR:36.73 SAM:9.49 ERGAS:0.73 SSIM:0.973 UQI:0.969
-Epoch:10001.0 Name:chart_and_stuffed_toy_ms PSNR:36.74 SAM:9.5 ERGAS:0.73 SSIM:0.973 UQI:0.969
-
+==========================
 Yours:
