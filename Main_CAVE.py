@@ -49,7 +49,7 @@ if __name__ == "__main__":
     train_opt.isCalSP = 'Yes'
     train_opt.display_port = 8097
     
-    # trade-off parameters: not very finely tuned
+    # trade-off parameters: could be better tuned
     # for auto-reconstruction
     train_opt.lambda_A = 10
     train_opt.lambda_B = 10
