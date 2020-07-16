@@ -13,6 +13,8 @@ Code for the paper: [Cross-Attention in Coupled Unmixing Nets for Unsupervised H
 ## Training
 #TODO with demo on two HSIs (*fake and real food* and *chart and staffed toy*) of the [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral) (Using [PyTorch](https://pytorch.org/) implemented on `Windows`).
 
+- Please see the five evaluation metrics (PSNR, SAM, ERGAS, SSIM, and UIQI) logged in `\checkpoints\CAVE_*name*\precision.txt`
+ 
 ## Testing
 #TODO
 
