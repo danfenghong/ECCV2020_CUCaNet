@@ -25,7 +25,7 @@ def setup_seed(seed):
      random.seed(seed)
      torch.backends.cudnn.deterministic = True
 
-setup_seed(3)
+setup_seed(1)
 
 if __name__ == "__main__":
 
@@ -62,7 +62,7 @@ if __name__ == "__main__":
     # beta
     train_opt.lambda_E = 0.01
     # gamma_3
-    train_opt.lambda_F = 1000 
+    train_opt.lambda_F = 10000
     
     train_dataloader = get_dataloader(train_opt, isTrain=True)
     dataset_size = len(train_dataloader)
