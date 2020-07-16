@@ -33,5 +33,21 @@ If you find this code helpful, please kindly cite:
 coming soon
 ```
 
-----------
-For further detailed questions, please feel free to contact jasonyao92@gmail.com/xxx.com.
+## Licensing
+
+Copyright (C) 2020 Jing Yao, Danfeng Hong
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3 of the License.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program.
+
+## Contact
+
+If you encounter the bugs while using this code, please do not hesitate to contact us.
+
+Jing Yao: :U+1F4E8: jasonyao92@gmail.com
+Danfeng Hong: hongdanfeng1989@gmail.com
+Danfeng Hong is with the Remote Sensing Technology Institute (IMF), German Aerospace Center (DLR), Germany; <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; with the Singnal Processing in Earth Oberservation (SiPEO), Technical University of Munich (TUM), Germany. 
