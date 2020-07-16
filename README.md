@@ -2,6 +2,8 @@
 
 [Jing Yao](https://scholar.google.com/citations?user=1SHd5ygAAAAJ&hl=en), [Danfeng Hong](https://sites.google.com/view/danfeng-hong), [Jocelyn Chanussot](https://scholar.google.com/citations?user=6owK2OQAAAAJ&hl=en), [Deyu Meng](https://scholar.google.com/citations?user=an6w-64AAAAJ&hl=en), [Xiaoxiang Zhu](https://scholar.google.com/citations?user=CNakdIgAAAAJ&hl=en), and [Zongben Xu](http://en.xjtu.edu.cn/info/1017/1632.htm)
 
+___________
+
 Code for the paper: [Cross-Attention in Coupled Unmixing Nets for Unsupervised Hyperspectral Super-Resolution](https://arxiv.org/pdf/2007.05230.pdf).
 
 <img src="Imgs/workflow_CUCa.png" width="666px"/>
