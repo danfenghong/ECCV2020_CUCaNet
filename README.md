@@ -7,7 +7,7 @@ Code for the paper: [Cross-Attention in Coupled Unmixing Nets for Unsupervised H
 **Fig.1.** An illustration of the proposed unsupervised hyperspectral super-resolution networks, called Coupled Unmixing Nets with Cross-Attention**(CUCaNet)**, inspired by spectral unmixing techniques, which mainly consists of two important modules: cross-attention and spatial-spectral consistency.
 
 ## Training
-#TODO with demo on two HSIs of the [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral).
+#TODO with demo on two HSIs (*fake and real food* and *chart and staffed toy*) of the [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral).
 
 ## Testing
 #TODO
