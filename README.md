@@ -45,7 +45,7 @@ You should have received a copy of the GNU General Public License along with thi
 
 ## Contact
 
-If you encounter a bug while using this code, please do not hesitate to contact us.
+If you encounter any bugs while using this code, please do not hesitate to contact us.
 
 Jing Yao (:incoming_envelope: jasonyao92@gmail.com) is with Xi'an Jiaotong University, China;
 
