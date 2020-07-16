@@ -11,11 +11,11 @@ Code for the paper: [Cross-Attention in Coupled Unmixing Nets for Unsupervised H
 **Fig.1.** An illustration of the proposed unsupervised hyperspectral super-resolution networks, called Coupled Unmixing Nets with Cross-Attention **(CUCaNet)**, inspired by spectral unmixing techniques, which mainly consists of two important modules: cross-attention and spatial-spectral consistency.
 
 ## Training
-Please simply run `Main_CAVE` demo to reproduce our HSISR results on two HSIs (*fake and real food* and *chart and staffed toy*) of the [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral) (Using [PyTorch](https://pytorch.org/) with Python 3.7 implemented on `Windows` OS).
+Please simply run `./Main_CAVE` demo to reproduce our HSISR results on two HSIs (*fake and real food* and *chart and staffed toy*) of the [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral) (Using [PyTorch](https://pytorch.org/) with Python 3.7 implemented on `Windows` OS).
 
 - Parameters: The trade-off parameters as `train_opt.lambda_*` could be better tuned and the network hyperparameters are flexible.
-- Results: Please see the five evaluation metrics (PSNR, SAM, ERGAS, SSIM, and UIQI) logged in `./checkpoints/CAVE_*name*/precision.txt` and the output `.mat` files in `./Results/CAVE/`.
-- Runtime: ca. 1 hour per HSI using single GTX2080.
+- Results: Please see the five evaluation metrics (PSNR, SAM, ERGAS, SSIM, and UIQI) logged in `./checkpoints/CAVE_*name*/precision.txt` and the output `.mat` files saved in `./Results/CAVE/`.
+- Runtime: ca. 1 hour per HSI using a single GTX2080.
 
 ## Testing
 #TODO
