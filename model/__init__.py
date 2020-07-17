@@ -28,8 +28,8 @@ def find_model_using_name(model_name):
 
     return model
 
-def create_model(opt, hsi_c, msi_c, sp_matrix, sp_range):
+def create_model(opt, hsi_c, msi_c, lrhsi_h, lrhsi_w, sp_matrix, sp_range):
     model_class = find_model_using_name(opt.model_name)
     instance = model_class()
-    instance.initialize(opt, hsi_c, msi_c, sp_matrix, sp_range)
+    instance.initialize(opt, hsi_c, msi_c, lrhsi_h, lrhsi_w, sp_matrix, sp_range)
     return instance
