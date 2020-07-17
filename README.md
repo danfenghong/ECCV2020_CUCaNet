@@ -13,7 +13,7 @@ Code for the paper: [Cross-Attention in Coupled Unmixing Nets for Unsupervised H
 ## Training
 Please simply run `./Main_CAVE.py` demo to reproduce our HSISR results on two HSIs (*fake and real food* and *chart and staffed toy*) of the [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral) (Using [PyTorch](https://pytorch.org/) with Python 3.7 implemented on `Windows` OS).
 
-- Before: Please click [drive.google](https://drive.google.com/drive/folders/1y4xgK6rylbqn7wz5PGqrMKR-GODs_GJI?usp=sharing) or [pan.baidu](https://pan.baidu.com/s/1UCZKkUyXBuYah1xeFEIWnQ) (PIN:8zgj) to manully download the two demo HSIs (`.mat` files) and relocate them to `./CAVE/`. For the required packages, please refer to detailed `.py` files.
+- Before: For the required packages, please refer to detailed `.py` files.
 - Parameters: The trade-off parameters as `train_opt.lambda_*` could be better tuned and the network hyperparameters are flexible.
 - Results: Please see the five evaluation metrics (PSNR, SAM, ERGAS, SSIM, and UIQI) logged in `./checkpoints/CAVE_*name*/precision.txt` and the output `.mat` files saved in `./Results/CAVE/`.
 - Runtime: ca. 1 hour per HSI using a single GTX2080.
