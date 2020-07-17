@@ -41,6 +41,8 @@ class DatasetDataLoader():
         self.dataset = create_dataset(arg, self.sp_matrix, isTrain)
         self.hsi_channels = self.dataset.hsi_channels
         self.msi_channels = self.dataset.msi_channels
+        self.lrhsi_height = self.dataset.lrhsi_height
+        self.lrhsi_width  = self.dataset.lrhsi_width
         self.dataloader = torch.utils.data.DataLoader(self.dataset,
                                                       batch_size=arg.batchsize if isTrain else 1,
                                                       shuffle=arg.isTrain if isTrain else False,
