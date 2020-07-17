@@ -68,6 +68,8 @@ if __name__ == "__main__":
     dataset_size = len(train_dataloader)
     train_model = create_model(train_opt, train_dataloader.hsi_channels,
                                train_dataloader.msi_channels,
+                               train_dataloader.lrhsi_height,
+                               train_dataloader.lrhsi_width,
                                train_dataloader.sp_matrix,
                                train_dataloader.sp_range)
     
