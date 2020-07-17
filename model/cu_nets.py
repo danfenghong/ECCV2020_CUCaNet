@@ -34,7 +34,7 @@ class CUNets(BaseModel):
         return parser
 
 
-    def initialize(self, opt, hsi_channels, msi_channels, sp_matrix, sp_range):
+    def initialize(self, opt, hsi_channels, msi_channels, lrhsi_hei, lrhsi_wid, sp_matrix, sp_range):
         BaseModel.initialize(self, opt)
         self.opt = opt
         self.visual_names = ['real_lhsi', 'rec_lr_lr']
@@ -54,7 +54,7 @@ class CUNets(BaseModel):
         self.net_G_HR2MSI = network.define_hr2msi(args=self.opt, hsi_channels=hsi_channels, msi_channels=msi_channels, sp_matrix=sp_matrix, sp_range=sp_range, gpu_ids=self.gpu_ids)
         
         self.net_G_mut_spa = network.define_spatial_AM(input_ch=ngf*8, kernel_sz=3, gpu_ids=self.gpu_ids)
-        self.net_G_mut_spe = network.define_spectral_AM(input_ch=ngf*8, input_hei=int(512/32), input_wid=int(512/32), gpu_ids=self.gpu_ids)
+        self.net_G_mut_spe = network.define_spectral_AM(input_ch=ngf*8, input_hei=int(lrhsi_hei), input_wid=int(lrhsi_wid), gpu_ids=self.gpu_ids)
         # LOSS
         if self.opt.avg_crite == "No":
             self.criterionL1Loss = torch.nn.L1Loss(size_average=False).to(self.device)
