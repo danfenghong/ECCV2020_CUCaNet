@@ -1,3 +1,0 @@
-*.pdf filter=lfs diff=lfs merge=lfs -text
-*.mat filter=lfs diff=lfs merge=lfs -text
-chart_and_stuffed_toy_ms.mat filter=lfs diff=lfs merge=lfs -text
