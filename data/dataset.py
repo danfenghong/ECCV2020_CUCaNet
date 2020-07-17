@@ -51,6 +51,7 @@ class Dataset(data.Dataset):
             'LrHSI'
             img_lr = self.generate_LrHSI(img_patch, s)
             self.img_lr_list.append(img_lr)
+            (self.lrhsi_height, self.lrhsi_width, _) = img_lr.shape
             'HrMSI'
             img_msi = self.generate_HrMSI(img_patch, self.sp_matrix)
             self.img_msi_list.append(img_msi)
