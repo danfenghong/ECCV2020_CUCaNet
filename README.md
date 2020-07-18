@@ -48,6 +48,6 @@ You should have received a copy of the GNU General Public License along with thi
 
 If you encounter any bugs while using this code, please do not hesitate to contact us.
 
-Jing Yao (:incoming_envelope: jasonyao92@gmail.com) is with Xi'an Jiaotong University, China;
+Jing Yao (:incoming_envelope: jasonyao92@gmail.com) is with the School of Mathematics and Statistics, Xi'an Jiaotong University, China;
 
 Danfeng Hong (:incoming_envelope: hongdanfeng1989@gmail.com) is with the Remote Sensing Technology Institute (IMF), German Aerospace Center (DLR), Germany, and also with the Singnal Processing in Earth Oberservation (SiPEO), Technical University of Munich (TUM), Germany. 
