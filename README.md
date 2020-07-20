@@ -11,7 +11,7 @@ Code for the paper: [Cross-Attention in Coupled Unmixing Nets for Unsupervised H
 **Fig.1.** An illustration of the proposed unsupervised hyperspectral super-resolution networks, called Coupled Unmixing Nets with Cross-Attention **(CUCaNet)**, inspired by spectral unmixing techniques, which mainly consists of two important modules: cross-attention and spatial-spectral consistency.
 
 ## Training
-Please simply run `./Main_CAVE.py` demo to reproduce our HSISR results on two HSIs (*fake and real food* and *chart and staffed toy*) of the [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral) (Using [PyTorch](https://pytorch.org/) with Python 3.7 implemented on `Windows` OS).
+Please simply run `./Main_CAVE.py` demo to reproduce our HSISR results on two HSIs (*fake and real food* and *chart and staffed toy*) of the [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral) (Using [PyTorch](https://pytorch.org/) with `Python 3.7` implemented on `Windows` OS).
 
 - Before: For the required packages, please refer to detailed `.py` files.
 - Parameters: The trade-off parameters as `train_opt.lambda_*` could be better tuned and the network hyperparameters are flexible.
@@ -31,7 +31,12 @@ If you find this code helpful, please kindly cite:
 ## BibTex
 
 ```
-coming soon
+@article{yao2020cross,
+  title={Cross-Attention in Coupled Unmixing Nets for Unsupervised Hyperspectral Super-Resolution},
+  author={Yao, Jing and Hong, Danfeng and Chanussot, Jocelyn and Meng, Deyu and Zhu, Xiaoxiang and Xu, Zongben},
+  journal={arXiv preprint arXiv:2007.05230},
+  year={2020}
+}
 ```
 
 ## Licensing
