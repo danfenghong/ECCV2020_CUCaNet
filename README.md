@@ -28,7 +28,9 @@ If you find this code helpful, please kindly cite:
 
 [2] Zheng, Ke, et al. "Coupled convolutional neural network with adaptive response function learning for unsupervised hyperspectral super-resolution." *IEEE Transactions on Geoscience and Remote Sensing* (2020), DOI: 10.1109/TGRS.2020.3006534.
 
-## BibTex
+## Citation Details
+
+BibTeX entry:
 
 ```
 @article{yao2020cross,
