@@ -24,7 +24,7 @@ Please simply run `./Main_CAVE.py` demo to reproduce our HSISR results on two HS
 ## References
 If you find this code helpful, please kindly cite:
 
-[1] Yao, Jing, et al. "Cross-attention in coupled unmixing nets for unsupervised hyperspectral super-resolution." In *Proceedings of the European Conference on Computer Vision (ECCV)* (2020), 208-224.
+[1] Yao, Jing, et al. "Cross-attention in coupled unmixing nets for unsupervised hyperspectral super-resolution." In *Proceedings of the European Conference on Computer Vision (ECCV)* (2020), pp. 208-224.
 
 [2] Zheng, Ke, et al. "Coupled convolutional neural network with adaptive response function learning for unsupervised hyperspectral super-resolution." *IEEE Transactions on Geoscience and Remote Sensing* (2020), DOI: 10.1109/TGRS.2020.3006534.
 
@@ -36,7 +36,7 @@ BibTeX entry:
 @inproceedings{yao2020cross,
   title={Cross-Attention in Coupled Unmixing Nets for Unsupervised Hyperspectral Super-Resolution},
   author={Yao, Jing and Hong, Danfeng and Chanussot, Jocelyn and Meng, Deyu and Zhu, Xiaoxiang and Xu, Zongben},
-  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  booktitle={European Conference on Computer Vision (ECCV)},
   pages={208-224},
   year={2020}
 }
