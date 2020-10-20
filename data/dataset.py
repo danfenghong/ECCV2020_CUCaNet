@@ -89,7 +89,7 @@ class Dataset(data.Dataset):
         (h, w, c) = img.shape
         self.msi_channels = sp_matrix.shape[1]
         if sp_matrix.shape[0] == c:
-            img_msi = np.dot(img.reshape(w*h,c), sp_matrix).reshape(w,h,sp_matrix.shape[1])
+            img_msi = np.dot(img.reshape(w*h,c), sp_matrix).reshape(h,w,sp_matrix.shape[1])
         else:
             raise Exception("The shape of sp matrix doesnot match the image")
         return img_msi
