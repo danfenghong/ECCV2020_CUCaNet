@@ -18,6 +18,12 @@ Please simply run `./Main_CAVE.py` demo to reproduce our HSISR results on two HS
 - Results: Please see the five evaluation metrics (PSNR, SAM, ERGAS, SSIM, and UIQI) logged in `./checkpoints/CAVE_*name*/precision.txt` and the output `.mat` files saved in `./Results/CAVE/`.
 - Runtime: ca. 1 hour per HSI using a single GTX2080.
 
+:exclamation: You may need to manually download the two HSIs to your local in the folder under path `./Main_CAVE.py`, due to storage restriction, from the following links of google drive or baiduyun:
+
+Google drive: https://drive.google.com/drive/folders/1eWQyObDkaFVJtslV0FalKBXr-HgcWdus?usp=sharing
+
+Baiduyun: https://pan.baidu.com/s/1WIrOt4hVWoxS1o_H37_gCQ (access code: 6q6j)
+
 ## Testing
 #TODO
 
